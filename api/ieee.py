@@ -1,0 +1,3 @@
+
+class Ieee:
+    pass

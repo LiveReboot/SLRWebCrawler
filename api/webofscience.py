@@ -1,0 +1,3 @@
+
+class WebofScience:
+    pass
